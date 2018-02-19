@@ -33,7 +33,7 @@ set noswapfile
 nmap , \
 
 if &t_Co == 256
-  colorscheme Tomorrow-Night
+  colorscheme seattle
   set t_ut=
 endif
 
